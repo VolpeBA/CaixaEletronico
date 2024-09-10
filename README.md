@@ -26,6 +26,10 @@ Este é um projeto de um sistema de Caixa Eletrônico (ATM) que simula operaçõ
 2. Importe para o Netbeans ou Eclipse.
 3. Execute o codigo.
 
+## TODO
+
+- Implementar JavaFX como interface gráfica.
+
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e enviar pull requests.
